@@ -1,0 +1,20 @@
+// External Factors Affecting Sales
+digraph {
+	A [label="Economic Factors"]
+	B [label=Seasonality]
+	C [label=Weather]
+	D [label=Competition]
+	E [label="Market Trends"]
+	F [label="Advertising/Promotion"]
+	G [label="Social Factors"]
+	H [label="Political/Regulatory Factors"]
+	S [label=Sales]
+	A -> S
+	B -> S
+	C -> S
+	D -> S
+	E -> S
+	F -> S
+	G -> S
+	H -> S
+}
