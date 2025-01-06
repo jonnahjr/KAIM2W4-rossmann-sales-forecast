@@ -70,7 +70,7 @@ Contributions are welcome! Please follow these steps:
 This project provides a comprehensive machine learning pipeline for sales forecasting and customer behavior analysis. By leveraging data-driven insights and deploying prediction models through a web interface, Rossmann Pharmaceuticals can make informed decisions to optimize store operations and resource allocation. 💼📊
 
 ### Contact Information 📧
-**Yonas Bogale** (formerly Getachew Getu)  
+**Yonas Bogale**   
 GitHub: [jonnahjr](https://github.com/jonnahjr)  
 Email: [jonasjjonas14@gmail.com](mailto:jonasjjonas14@gmail.com)  
 LinkedIn: [Yonas Bogale](https://www.linkedin.com/in/yonasbogale) 🔗
